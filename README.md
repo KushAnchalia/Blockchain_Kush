@@ -1,7 +1,3 @@
-# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
+
 ![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
-
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+Just did this from the yt video mentioned https://www.youtube.com/watch?v=BDCT6TYLYdI but learned everthing and understood solidity smart contract and other components tailwind css and other like how to deploy like we uased web3 so that out tastk lke deploy and all this is used metamas for the wallet and eth as curency and other things but still the navbar is not completed just the logo is the there the link is not there yash that left and tried to do that 
