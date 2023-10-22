@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^21.0.0",
+    "thirdweb": "^0.13.7"
+  }
+}
